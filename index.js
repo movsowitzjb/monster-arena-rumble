@@ -1,6 +1,5 @@
 const express = require('express');
 const mysql = require('mysql2');
-b;
 
 const db = mysql.createConnection({
   host: 'localhost',
