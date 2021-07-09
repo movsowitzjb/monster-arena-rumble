@@ -1,3 +1,1 @@
-module.exports = {
-  database: 'monster_arena_rumble',
-};
+module.exports = { database: 'monster_arena_rumble' };
